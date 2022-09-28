@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "0a4bf6ac-7830-44e7-b75e-25e9695c7267",
+		"name": "MMCalc",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23556585"
+	},
+	"item": [
+		{
+			"name": "Post Add Calculation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Post Subtract Calculation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Post Divide Calculation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Post Multiply Calculation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMCalc", "MMCalc\MMCalc.csproj", "{AFFF2515-BD26-42F4-AAED-8F78E8A0A36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMCalcTest", "MMCalcTest\MMCalcTest.csproj", "{95AC90FC-3A43-47A8-94E3-1DE08BA889BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFF2515-BD26-42F4-AAED-8F78E8A0A36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFF2515-BD26-42F4-AAED-8F78E8A0A36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFF2515-BD26-42F4-AAED-8F78E8A0A36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFF2515-BD26-42F4-AAED-8F78E8A0A36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AC90FC-3A43-47A8-94E3-1DE08BA889BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AC90FC-3A43-47A8-94E3-1DE08BA889BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AC90FC-3A43-47A8-94E3-1DE08BA889BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AC90FC-3A43-47A8-94E3-1DE08BA889BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5422C7A8-CF03-4F43-95F2-0C8275314D8B}
+	EndGlobalSection
+EndGlobal
